@@ -1,0 +1,60 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/behcet's---secondary.py
+inputModule3:
+  class: File
+  path: python/arthropathy-behcets-disease---secondary.py
+inputModule4:
+  class: File
+  path: python/behcets-disease-unspecified---secondary.py
+inputModule5:
+  class: File
+  path: python/lower-behcets-disease---secondary.py
+inputModule6:
+  class: File
+  path: python/behcets-disease-shoulder---secondary.py
+inputModule7:
+  class: File
+  path: python/behcets-disease-forearm---secondary.py
+inputModule8:
+  class: File
+  path: python/behcets-disease-thigh---secondary.py
+inputModule9:
+  class: File
+  path: python/multiple-behcets-disease---secondary.py
+inputModule10:
+  class: File
+  path: python/upper-behcets-disease---secondary.py
+inputModule11:
+  class: File
+  path: python/behcets-disease-ankle---secondary.py
+inputModule12:
+  class: File
+  path: python/neurologic-behcets-disease---secondary.py
+inputModule13:
+  class: File
+  path: python/vascular-behcets-disease---secondary.py
+inputModule14:
+  class: File
+  path: python/other-behcets-disease---secondary.py
+inputModule15:
+  class: File
+  path: python/behcets-disease-spine---secondary.py
+inputModule16:
+  class: File
+  path: python/intestinal-behcets-disease---secondary.py
+inputModule17:
+  class: File
+  path: python/complete-behcets-disease---secondary.py
+inputModule18:
+  class: File
+  path: python/behcets-disease-mucosa---secondary.py
+inputModule19:
+  class: File
+  path: python/behcets-disease-system---secondary.py
+inputModule20:
+  class: File
+  path: python/output-cases.py
